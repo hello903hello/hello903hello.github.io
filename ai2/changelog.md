@@ -8,3 +8,5 @@
 - added choice for non-Asian
 #### 1.5.32
 - fixed Asian borderline
+#### 1.5.33
+- fixed minor bugs
