@@ -18,3 +18,7 @@
 - dialog -> checkbox
 #### 1.5.37
 - better error handling
+#### 1.5.38
+- added debugging options
+#### 1.5.39
+- fixed typo in variable (which messed everything up)
