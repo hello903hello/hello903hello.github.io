@@ -14,3 +14,7 @@
 - fixed minor bugs
 #### 1.5.35
 - fixed Asian borderline
+#### 1.5.36
+- dialog -> checkbox
+#### 1.5.37
+- better error handling
