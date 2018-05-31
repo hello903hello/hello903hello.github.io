@@ -12,3 +12,5 @@
 - fixed minor bugs
 #### 1.5.34
 - fixed minor bugs
+#### 1.5.35
+- fixed Asian borderline
