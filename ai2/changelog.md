@@ -7,4 +7,4 @@
 #### 1.5.31
 - added choice for non-Asian
 #### 1.5.32
-- fix Asian borderline
+- fixed Asian borderline
