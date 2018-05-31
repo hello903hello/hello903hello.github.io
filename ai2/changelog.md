@@ -22,3 +22,5 @@
 - added debugging options
 #### 1.5.39
 - fixed typo in variable (which messed everything up)
+#### 1.5.40
+- added label "Debugging area" to prevent confusion
