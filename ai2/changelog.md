@@ -6,3 +6,5 @@
 - url for version checking is now set during screen2 initialisation
 #### 1.5.31
 - added choice for non-Asian
+#### 1.5.32
+- fix Asian borderline
