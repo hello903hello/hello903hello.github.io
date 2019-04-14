@@ -26,3 +26,5 @@
 - added label "Debugging area" to avoid confusion
 #### 1.5.43 (2019-04-13)
 - added alert box when attempting to calculate without inputting values
+#### 1.5.44 (2019-04-14)
+- fixed minor bugs
