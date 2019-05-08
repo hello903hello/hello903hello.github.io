@@ -28,3 +28,5 @@
 - added alert box when attempting to calculate without inputting values
 #### 1.5.44 (2019-04-14)
 - fixed minor bugs
+#### 1.5.45 (2019-05-08)
+- added audio response
