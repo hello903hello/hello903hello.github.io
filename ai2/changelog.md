@@ -35,3 +35,7 @@
 #### 1.6.46 (2019-05-19)
 - added the brand new app info button! (I'm not excited actually)
 - switched to switches, the new component offered by ai2 (the nasia btn from 1.5.31)
+#### 1.6.47 (2019-05-19)
+- rollback switch, currently not working on the classic theme
+#### 1.6.48 (2019-05-19)
+- changed theme to "Device Default" (switches will be back soon!)
