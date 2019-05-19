@@ -1,6 +1,6 @@
 # Changelog
-## Versions
-### 1
+## Version 1
+### 1.5
 #### 1.5.30
 - fixed "Download latest version" button still showing after the "About this app" is toggled
 - url for version checking is now set during screen2 initialisation
@@ -30,3 +30,8 @@
 - fixed minor bugs
 #### 1.5.45 (2019-05-08)
 - added audio response
+
+### 1.6
+#### 1.6.46 (2019-05-19)
+- added the brand new app info button! (I'm not excited actually)
+- switched to switches, the new component offered by ai2 (the nasia btn from 1.5.31)
