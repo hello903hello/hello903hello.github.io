@@ -39,3 +39,5 @@
 - rollback switch, currently not working on the classic theme
 #### 1.6.48 (2019-05-19)
 - changed theme to "Device Default" (switches will be back soon!)
+#### 1.6.49 (2019-05-19)
+- switches are back!
