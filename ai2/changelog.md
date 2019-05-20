@@ -41,3 +41,6 @@
 - changed theme to "Device Default" (switches will be back soon!)
 #### 1.6.49 (2019-05-19)
 - switches are back!
+#### 1.6.50 (2019-05-20)
+- fixed alert box for empty input
+- fixed app info screen title
