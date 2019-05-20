@@ -44,3 +44,9 @@
 #### 1.6.50 (2019-05-20)
 - fixed alert box for empty input
 - fixed app info screen title
+
+### 1.7
+#### 1.7.51 (2019-05-20)
+- your asian/non-asian settings are now saved, so if you chose non-asian it will still be there the next time you open the app
+#### 1.7.52 (2019-05-20)
+- fixed some layout problems on portrait view
